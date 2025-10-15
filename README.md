@@ -7,13 +7,9 @@ This is a personal portfolio website built with HTML, CSS, and JavaScript to sho
   Features
 
 About Me – Introduction and personal background.
-
 Projects – Showcases personal and academic projects with descriptions and links.
-
 GitHub & LinkedIn – Quick access to my GitHub repositories and professional profile.
-
 Certificates – Display of certificates and achievements
-
 E-Curricula Completion – Records of completed e-learning courses.
 HackerRank Problem Solving – Highlights of solved problems with screenshots.
 Contact Form – Lets visitors send messages directly through the website.
