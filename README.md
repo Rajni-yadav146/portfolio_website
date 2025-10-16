@@ -4,7 +4,7 @@ Rajni’s Portfolio
 
 This is a personal portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and achievements as a second-year Computer Science and Engineering student at SRMIST.
 
-  Features
+Features
 
 About Me – Introduction and personal background.
 Projects – Showcases personal and academic projects with descriptions and links.
